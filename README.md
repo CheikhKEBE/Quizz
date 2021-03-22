@@ -14,7 +14,7 @@ Si l'utilisateur, répond à toutes les question il a gagné et perd quand il a 
 
 
 
-- Clone le projet (https://github.com/CheikhKEBE/projects/tree/portfolios)
+- Clone le projet (https://github.com/CheikhKEBE/Quizz)
 - Ouvrir le note book : 02-Build_a_quiz_part2.ipynb
 - Vous pouvez changer les question en modifiant la variable : moon_dictionnary
 - Vous pouvez changer le message d'accueil, en remplaçant "Bienvenue dans notre quizz sur la lune !" par votre propre message
