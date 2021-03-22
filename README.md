@@ -1,5 +1,5 @@
 # Quizz
-Jeu de questions / réponses avec un nombre maxim de tentatives.
+Jeu de questions / réponses avec un nombre maximum de tentatives.
 Si l'utilisateur, répond à toutes les question il a gagné et perd quand il a atteint le nombre maximum de tentatives.
 
 ## Pour commencer
