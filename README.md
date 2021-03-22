@@ -4,7 +4,7 @@ Si l'utilisateur, répond à toutes les question il a gagné et perd quand il a 
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+
 
 ### Pré-requis
 
@@ -12,7 +12,7 @@ Entrez ici les instructions pour bien débuter avec votre projet...
 
 ### Installation
 
-Ce qu'il est requis pour commencer avec votre projet...
+
 
 - Clone le projet (https://github.com/CheikhKEBE/projects/tree/portfolios)
 - Ouvrir le note book : 02-Build_a_quiz_part2.ipynb
@@ -20,7 +20,26 @@ Ce qu'il est requis pour commencer avec votre projet...
 - Vous pouvez changer le message d'accueil, en remplaçant "Bienvenue dans notre quizz sur la lune !" par votre propre message
 - Par défaut, le nombre de tentives est 3, vous pouvez le changer
 
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+Bienvenue dans notre quizz sur la lune !
+Vous avez droit à  3 essai maximum durant le quizz !
+=======================================
+
+
+Question : 1
+Nombre de planetes dans le système solaire? 8
+Bravo, 8 est la bonne réponse !
+
+
+Question : 2
+Amunissage sur la lune ? 1969
+Bravo, 1969 est la bonne réponse !
+
+
+Question : 3
+Première femme à aller dans l'espace? fggf
+Mauvaise réponse, veuillez réessayer, ils vous restent 2 tentatives jhj
+Mauvaise réponse, veuillez réessayer, ils vous restent 1 tentatives jkjk
+Vous avez perdu !
 
 ## Démarrage
 
